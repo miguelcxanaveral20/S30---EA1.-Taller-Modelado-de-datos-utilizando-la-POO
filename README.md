@@ -1,3 +1,4 @@
+"
 # S30---EA1.-Taller-Modelado-de-datos-utilizando-la-POO
 S30 - EA1. Taller Modelado de datos utilizando la POO
 EA1_Campus_Digital_Andino
@@ -116,7 +117,7 @@ text
 │ - registrarNotas()        │
 │ - mostrarEstudiantes()    │
 └───────────────────────────┘
-```
+
 
  6. Estructuras de datos utilizadas
 
@@ -157,4 +158,5 @@ El desarrollo de Campus Digital Andino permitió aplicar los fundamentos de la p
 
 La separación del programa en clases mejora la organización del código y asigna responsabilidades específicas a cada componente. Además, el encapsulamiento protege los atributos y permite acceder a la información mediante métodos definidos.
 
-Finalmente, la implementación de operaciones de búsqueda, cálculo de promedios, clasificación y ordenamiento demuestra cómo los vectores, las matrices y los tipos de datos abstractos pueden utilizarse conjuntamente para resolver un problema académico de manera estructurada.
+Finalmente, la implementación de operaciones de búsqueda, cálculo de promedios, clasificación y ordenamiento demuestra cómo los vectores, las matrices y los tipos de datos abstractos pueden utilizarse conjuntamente para resolver un problema académico de manera estructurada. 
+"
