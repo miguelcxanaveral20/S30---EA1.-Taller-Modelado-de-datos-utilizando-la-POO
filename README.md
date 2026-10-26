@@ -175,19 +175,19 @@ Las evidencias deben ser capturas reales de la aplicación ejecutándose en la t
 
 ### Evidencia 1. Menú principal
 
-![Evidencia 1: Menú principal](evidencia%201.png)
+![Evidencia 1: Menú principal](./Evidencia%201.png)
 
 Debe mostrar el nombre del proyecto y las opciones disponibles en el menú.
 
 ### Evidencia 2. Registro de estudiantes y calificaciones
 
-![Evidencia 2: Registro de estudiantes y calificaciones](evidencia%202.png)
+![Evidencia 2: Registro de estudiantes y calificaciones](./Evidencia%202.png)
 
 Debe mostrar el ingreso de los datos de prueba y los mensajes de confirmación correspondientes.
 
 ### Evidencia 3. Consulta de resultados académicos
 
-![Evidencia 3: Resultados académicos](evidencia%203.png)
+![Evidencia 3: Resultados académicos](./Evidencia%203.png)
 
 Debe mostrar los estudiantes registrados, sus calificaciones, los promedios y la clasificación académica.
 
